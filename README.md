@@ -1,34 +1,55 @@
 ## Hi there 👋
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Jyotika&fontSize=40&fontAlignY=35)
+
 <h1 align="center">Hi 👋, I'm Jyotika</h1>
-<h3 align="center">💻 Aspiring Software Developer | 🌱 Tech Learner | 🚀 Future Innovator</h3>
+<h3 align="center">💻 Aspiring Software Developer | 🌱 Tech Enthusiast | 🚀 Problem Solver</h3>
 
----
-
-<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+coding+💻;Always+learning+new+things+🚀" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+building+projects+💻;Exploring+DSA+%26+Cloud+☁️;Always+learning+🚀" />
+</p>
 
 ---
 
 ## 🌸 About Me
 - 🎓 Computer Science Student  
-- 💡 Interested in Web Development & Problem Solving  
-- 🌱 Currently learning **DSA + Cloud + Development**  
-- 🎯 Goal: Become a skilled Software Developer  
+- 💡 Passionate about **Web Development & Problem Solving**  
+- 🌱 Currently learning **DSA + Cloud Computing + Laravel**  
+- 🎯 Goal: Become a **Software Developer**  
 
 ---
 
 ## 🛠️ Tech Stack
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,php,laravel,git,github" />
 </p>
 
 ---
 
-## 🚀 Projects
-- 🌿 **Green Product Marketing**  
-  👉 Promoting eco-friendly products using digital solutions  
+## 🚀 Featured Projects
 
-- ☁️ **Cloud Computing (NPTEL)**  
-  👉 Learned cloud architecture & real-world applications  
+### 🌿 Green Product Marketing  
+🔗 https://github.com/Adrshsingh/Green-Product-Marketing  
+💡 Promotes eco-friendly products using digital marketing strategies  
+
+📸 Screenshot:  
+![project1](https://via.placeholder.com/800x400.png?text=Green+Product+Marketing)
+
+---
+
+### ☁️ Cloud Computing (NPTEL)  
+💡 Completed certified course with hands-on learning  
+
+📸 Certificate:  
+![project2](https://via.placeholder.com/800x400.png?text=Cloud+Computing+Certificate)
+
+---
+
+### ➕ Add More Projects Here  
+🔗 Your Project Link  
+💡 Short description  
+
+📸 Screenshot:  
+![project](https://via.placeholder.com/800x400.png?text=Your+Project)
 
 ---
 
@@ -43,8 +64,15 @@
 
 ---
 
+## 🏆 Achievements
+- 🎓 NPTEL Cloud Computing Certified  
+- 💻 Completed C++ (OOPs + DSA Training)  
+- 🚀 Actively building projects  
+
+---
+
 ## 🌐 Connect With Me
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
@@ -57,5 +85,9 @@
 
 ---
 
-## 💬 Quote
+## 💬 Developer Mindset
 _"Code. Learn. Build. Repeat. 🚀"_
+
+---
+
+<img src="https://github-profile-trophy.vercel.app/?username=JYOTIKA04&theme=onedark" />
