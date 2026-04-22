@@ -26,9 +26,29 @@
 ---
 
 ## 🚀 Featured Projects
+### 🧠 SleepGuard AI (Sleep Apnea Detection)
+🔗 https://github.com/JYOTIKA04/chatbot  
+
+💡 AI-powered system that monitors breathing patterns during sleep and detects potential sleep apnea events.  
+
+✨ Features:
+- 🫀 Heartbeat monitoring simulation  
+- 🤖 AI-based detection system  
+- 🌙 Real-time sleep analysis UI  
+- 📊 Interactive dashboard  
+
+📸 Preview:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JYOTIKA04/chatbot/main/screenshot.png" width="700"/>
+</p>
+
+🎬 Live Feel Animation:
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
+</p>
 
 ### 🌿 Green Product Marketing  
-🔗 https://github.com/Adrshsingh/Green-Product-Marketing  
+🔗 https://github.com/JYOTIKA04/Green-Product-Marketing
 💡 Promotes eco-friendly products using digital marketing strategies  
 
 📸 Screenshot:  
