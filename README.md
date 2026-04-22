@@ -4,6 +4,10 @@
 
 ---
 
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+coding+💻;Always+learning+new+things+🚀" />
+
+---
+
 ## 🌸 About Me
 - 🎓 Computer Science Student  
 - 💡 Interested in Web Development & Problem Solving  
@@ -48,10 +52,10 @@
 
 ---
 
-## ✨ Fun Fact
-👉 *“Bridging technology and sustainability to inspire greener choices 🌱”*
+## ✨ Tagline
+👉 *"Bridging technology and sustainability to inspire greener choices 🌱"*
 
 ---
 
 ## 💬 Quote
-_"Code, Learn, Build, Repeat 🚀"_
+_"Code. Learn. Build. Repeat. 🚀"_
